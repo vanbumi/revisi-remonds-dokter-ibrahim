@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Baim0109:rasyid200818@zoomprivate.mwsdb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "7b0ddd65891bf73fd33a",
+  "githubSecret": "9e7f911ac2e65b709cdd7741630fa25f17963361"
+}
